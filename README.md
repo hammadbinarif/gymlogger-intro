@@ -13,7 +13,7 @@ Note: You'll need to allow unknown source in your phone to install this App
 
 ## 🎙️ Key Features:
 
--   Voice Logging – Just say “Bench press 80 8” and it's logged!
+-   Voice Logging – Just say “Bench press 80 by 8” and it's logged!
 -   Manual Entry – Prefer to type? Choose from popular exercises or add your own.
 -   Google Sheets Sync – Backup your data to Google Sheets for easy access anywhere.
 -   Edit & Delete Logs – Fix mistakes or update old entries anytime.
